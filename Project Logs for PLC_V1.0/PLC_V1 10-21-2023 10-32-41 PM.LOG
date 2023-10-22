@@ -1,0 +1,17 @@
+Change Component Comment : Designator=D2 Old Comment=3.3V New Comment=18V
+Change component parameters: Designator = "D2" ("D2"); Footprint = "DIODE ZENNER SMD SOD80"; UniqueID = "\TMPQPPFW\AOSAPJPE" ("\TMPQPPFW\AOSAPJPE")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH002884"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode Zener 1/2W 18V SMD1206 ZMM18"; VariantName = "[No Variations]"
+Added Room: Name=PLC_V1.0
+Added Room: Name=U_A_INPUT
+Added Room: Name=U_D_INPUT
+Added Room: Name=U_D_OUTPUT
+Added Room: Name=U_ESP32
+Added Room: Name=U_PWM_OUTPUT
+Added Room: Name=U_Regulator
+Added Room: Name=U_RS232
+Added Room: Name=U_RS485

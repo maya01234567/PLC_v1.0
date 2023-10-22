@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=DI_1 Pin=U2-32
+Removed Pin From Net: NetName=DI_2 Pin=U2-33
+Removed Pin From Net: NetName=DI_3 Pin=U2-34
+Removed Pin From Net: NetName=DI_4 Pin=U2-35
+Removed Pin From Net: NetName=DI_5 Pin=U2-36
+Removed Pin From Net: NetName=DI_6 Pin=U2-37
+Removed Pin From Net: NetName=DI_8 Pin=U2-39
+Removed Pin From Net: NetName=DI_9 Pin=U2-41
+Removed Pin From Net: NetName=DI_10 Pin=U2-43
+Removed Pin From Net: NetName=DI_11 Pin=U2-44
+Removed Pin From Net: NetName=DI_12 Pin=U2-45
+Removed Pin From Net: NetName=DI_13 Pin=U2-46
+Added Pin To Net: NetName=DI_13 Pin=U2-32
+Added Pin To Net: NetName=DI_12 Pin=U2-33
+Added Pin To Net: NetName=DI_11 Pin=U2-34
+Added Pin To Net: NetName=DI_10 Pin=U2-35
+Added Pin To Net: NetName=DI_9 Pin=U2-36
+Added Pin To Net: NetName=DI_8 Pin=U2-37
+Added Pin To Net: NetName=DI_6 Pin=U2-39
+Added Pin To Net: NetName=DI_5 Pin=U2-41
+Added Pin To Net: NetName=DI_4 Pin=U2-43
+Added Pin To Net: NetName=DI_3 Pin=U2-44
+Added Pin To Net: NetName=DI_2 Pin=U2-45
+Added Pin To Net: NetName=DI_1 Pin=U2-46
+Added Room: Name=PLC_V1.0
+Added Room: Name=U_A_INPUT
+Added Room: Name=U_D_INPUT
+Added Room: Name=U_D_OUTPUT
+Added Room: Name=U_ESP32
+Added Room: Name=U_PWM_OUTPUT
+Added Room: Name=U_Regulator
+Added Room: Name=U_RS232
+Added Room: Name=U_RS485

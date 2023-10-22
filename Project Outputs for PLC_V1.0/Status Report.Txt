@@ -1,0 +1,10 @@
+Output: Cadnetix Netlist
+Type  : CadnetixNetlist
+From  : Project [PLC_V1.0.PrjPcb]
+   Generated File[PLC_V1.0.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:44:48 PM On 10/21/2023

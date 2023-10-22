@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=AVIN_6 Pin=P7-1
+Removed Pin From Net: NetName=AVIN_6 Pin=P7-1
+Removed Pin From Net: NetName=GND Pin=P7-2
+Removed Pin From Net: NetName=GND Pin=P7-2
+Removed Pin From Net: NetName=AVIN_5 Pin=P7-3
+Removed Pin From Net: NetName=AVIN_5 Pin=P7-3
+Removed Pin From Net: NetName=GND Pin=P7-4
+Removed Pin From Net: NetName=AVIN_4 Pin=P8-1
+Removed Pin From Net: NetName=GND Pin=P8-2
+Removed Pin From Net: NetName=AVIN_3 Pin=P8-3
+Removed Pin From Net: NetName=GND Pin=P8-4
+Removed Pin From Net: NetName=AVIN_2 Pin=P8-5
+Removed Pin From Net: NetName=GND Pin=P8-6
+Removed Pin From Net: NetName=AVIN_1 Pin=P8-7
+Removed Pin From Net: NetName=GND Pin=P8-8
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=AVIN_6 Pin=P7-2
+Added Pin To Net: NetName=AVIN_6 Pin=P7-2
+Added Pin To Net: NetName=GND Pin=P7-3
+Added Pin To Net: NetName=GND Pin=P7-3
+Added Pin To Net: NetName=AVIN_5 Pin=P7-4
+Added Pin To Net: NetName=GND Pin=P8-1
+Added Pin To Net: NetName=AVIN_4 Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P8-3
+Added Pin To Net: NetName=AVIN_3 Pin=P8-4
+Added Pin To Net: NetName=GND Pin=P8-5
+Added Pin To Net: NetName=AVIN_2 Pin=P8-6
+Added Pin To Net: NetName=GND Pin=P8-7
+Added Pin To Net: NetName=AVIN_1 Pin=P8-8
+Added Room: Name=PLC_V1.0
+Added Room: Name=U_A_INPUT
+Added Room: Name=U_D_INPUT
+Added Room: Name=U_D_OUTPUT
+Added Room: Name=U_ESP32
+Added Room: Name=U_PWM_OUTPUT
+Added Room: Name=U_Regulator
+Added Room: Name=U_RS232
+Added Room: Name=U_RS485

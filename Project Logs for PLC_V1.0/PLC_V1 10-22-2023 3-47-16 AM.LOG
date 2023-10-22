@@ -1,0 +1,40 @@
+Added Component: Designator=P2(CON 2 2EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 2EDG5.08-2P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Component: Designator=P10(CON 4 4EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000979"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 4 2EDG5.08-4P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_485 Pin=P2-1
+Added Pin To Net: NetName=NetAMS3_3 Pin=P2-2
+Added Pin To Net: NetName=3.3V_485 Pin=P10-1
+Added Pin To Net: NetName=3.3V_485 Pin=P10-1
+Added Pin To Net: NetName=GND_458 Pin=P10-2
+Added Pin To Net: NetName=GND_458 Pin=P10-2
+Added Pin To Net: NetName=NetP10_3 Pin=P10-3
+Added Pin To Net: NetName=NetP10_3 Pin=P10-3
+Added Pin To Net: NetName=NetP10_4 Pin=P10-4
+Change Net Name : Old Net Name=RXD New Net Name=USB_N
+Change Net Name : Old Net Name=SWCLK New Net Name=SWCLK_P
+Change Net Name : Old Net Name=SWDIO New Net Name=SWCLK_N
+Change Net Name : Old Net Name=TXD New Net Name=USB_P
+Added Differential Pair: Name=SWCLK
+Added Differential Pair: Name=USB
+Added Member To Class: ClassName=U_Regulator Member=Component P2 CON 2 EDG5.08
+Added Member To Class: ClassName=U_RS485 Member=Component P10 CON 4 EDG5.08
+Added Room: Name=PLC_V1.0
+Added Room: Name=U_A_INPUT
+Added Room: Name=U_D_INPUT
+Added Room: Name=U_D_OUTPUT
+Added Room: Name=U_ESP32
+Added Room: Name=U_PWM_OUTPUT
+Added Room: Name=U_Regulator
+Added Room: Name=U_RS232
+Added Room: Name=U_RS485

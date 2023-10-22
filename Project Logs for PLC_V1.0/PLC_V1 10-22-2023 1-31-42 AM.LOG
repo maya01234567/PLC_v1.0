@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GND Pin=AMS3-1
+Removed Pin From Net: NetName=10V Pin=AMS3-3
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=L4-2
+Added Component: Designator=C?(tu nhom 8 (f))
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Nhôm 100uF 50V 8x10.2MM"; VariantName = "[No Variations]"
+Added Component: Designator=P?(CON 2 2EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 2EDG5.08-2P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_485 Pin=AMS3-1
+Added Pin To Net: NetName=GND_485 Pin=C8-2
+Added Pin To Net: NetName=GND_485 Pin=C9-2
+Added Pin To Net: NetName=GND_485 Pin=C?-2
+Added Pin To Net: NetName=GND_485 Pin=L4-2
+Added Pin To Net: NetName=GND_485 Pin=P?-2
+Added Pin To Net: NetName=NetAMS3_3 Pin=AMS3-3
+Added Pin To Net: NetName=NetAMS3_3 Pin=C?-1
+Added Pin To Net: NetName=NetAMS3_3 Pin=P?-1
+Added Net: Name=NetAMS3_3
+Added Member To Class: ClassName=U_Regulator Member=Component C? 100uF
+Added Member To Class: ClassName=U_Regulator Member=Component P? CON 2 EDG5.08
+Added Room: Name=PLC_V1.0
+Added Room: Name=U_A_INPUT
+Added Room: Name=U_D_INPUT
+Added Room: Name=U_D_OUTPUT
+Added Room: Name=U_ESP32
+Added Room: Name=U_PWM_OUTPUT
+Added Room: Name=U_Regulator
+Added Room: Name=U_RS232
+Added Room: Name=U_RS485

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=SWCLK_N Pin=JP1-1
+Removed Pin From Net: NetName=SWCLK_P Pin=JP1-3
+Added Pin To Net: NetName=SWCLK_P Pin=JP1-1
+Added Pin To Net: NetName=SWCLK_N Pin=JP1-3
+Added Member To Class: ClassName=U_Regulator Member=Component P2 CON 2 EDG5.08
+Added Member To Class: ClassName=U_RS485 Member=Component P10 CON 4 EDG5.08
+Added Room: Name=PLC_V1.0
+Added Room: Name=U_A_INPUT
+Added Room: Name=U_D_INPUT
+Added Room: Name=U_D_OUTPUT
+Added Room: Name=U_ESP32
+Added Room: Name=U_PWM_OUTPUT
+Added Room: Name=U_Regulator
+Added Room: Name=U_RS232
+Added Room: Name=U_RS485

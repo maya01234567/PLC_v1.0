@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetAMS3_3 Pin=P?-1
+Removed Pin From Net: NetName=GND_485 Pin=P?-2
+Added Pin To Net: NetName=GND_485 Pin=P?-1
+Added Pin To Net: NetName=NetAMS3_3 Pin=P?-2
+Added Room: Name=PLC_V1.0
+Added Room: Name=U_A_INPUT
+Added Room: Name=U_D_INPUT
+Added Room: Name=U_D_OUTPUT
+Added Room: Name=U_ESP32
+Added Room: Name=U_PWM_OUTPUT
+Added Room: Name=U_Regulator
+Added Room: Name=U_RS232
+Added Room: Name=U_RS485
